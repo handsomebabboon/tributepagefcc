@@ -1,0 +1,101 @@
+#main {
+  background-color: #eeeeee;
+  border-radius: 0.25%;
+  margin-top: 35px;
+}
+
+#header {
+  height: 200%;
+}
+
+#main-heading {
+  position: relative;
+  text-align: center;
+  top: 30px;
+  font-size: 45px;
+  font-family: Bahnschrift;
+}
+
+#heading-description {
+  position: relative;
+  text-align: center;
+  font-family: calibri light;
+  top: 20px;
+}
+.timeline {
+  font-family: calibri;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.content-header {
+  font-family: Bahnschrift;
+  text-align: center;
+}
+
+.main-heading {
+  text-align: center;
+}
+
+#main-pic {
+  display: block;
+  margin: auto;
+}
+
+#image-description {
+  text-align: center;
+  line-height: 20px;
+  font-family: calibri light;
+}
+
+#pic-section {
+  background-color: white;
+  width: 97%;
+
+  margin: auto;
+}
+
+li {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.list-item-text {
+  display: inline;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.list-item-year {
+  display: inline;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+#ending {
+  margin-left: 27%;
+  margin-right: 27%;
+  margin-top: 50px;
+  font-family: calibri;
+  color: rgba(0, 0, 0, 0.75);
+  font-style: italic;
+  line-height: 150%;
+  font-size: 20px;
+}
+
+#ending-quote {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 10px;
+  font-family: calibri;
+  color: rgba(0, 0, 0, 0.75);
+  font-style: italic;
+  line-height: 150%;
+  font-size: 20px;
+}
+
+#closing {
+  text-align: center;
+  font-family: arial;
+  font-size: 20px;
+}
